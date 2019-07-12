@@ -1,0 +1,2 @@
+# rmsure
+rm -rf sure?
